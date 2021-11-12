@@ -1,4 +1,4 @@
-# ES6 Modules And Legacy Browsers
+# Bundling External Libraries
 
 Supporting materials for a Youtube lesson: [Youtube](link here)
 
